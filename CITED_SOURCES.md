@@ -77,60 +77,66 @@ The **Scholar** and **Books** links below are *search-query* links: they always 
    - *Cited (fn 17):* *s.v.* *bāḥan* (בָּחַן) — and the smelting/refining verbs *ṣārap* (צרף) and *zāqaq* (זקק). (Reference work — limited or no Google Books preview.)
    - Scholar: https://scholar.google.com/scholar?q=Koehler+Baumgartner+%22Hebrew+and+Aramaic+Lexicon+of+the+Old+Testament%22
 
-10. **Lee, Archie C. C.** "Cross-Textual Hermeneutics and Identity in Multi-Scriptural Asia." In *Christian Theology in Asia*, edited by Sebastian C. H. Kim, 179–204. Cambridge: Cambridge University Press, 2008.
+10. **Lambert, W. G.** *Babylonian Wisdom Literature.* Oxford: Clarendon Press, 1960.
+    - **Paywalled (this edition) / PD (ancient texts).** The standard critical edition (Oxford: Clarendon, 1960) is an in-copyright typeset edition — via Vanderbilt Library / WorldCat; Eisenbrauns issued a reprint (Winona Lake, IN, 1996). The ancient compositions themselves are public domain.
+    - *Cited (fn 23):* the Mesopotamian "righteous sufferer" compositions — *Ludlul bēl nēmeqi* and the *Babylonian Theodicy* — edited here as the ancient Near Eastern analogues to Job.
+    - Scholar: https://scholar.google.com/scholar?q=Lambert+%22Babylonian+Wisdom+Literature%22
+    - Books: https://www.google.com/search?tbm=bks&q=Lambert+%22Babylonian+Wisdom+Literature%22+Ludlul
+
+11. **Lee, Archie C. C.** "Cross-Textual Hermeneutics and Identity in Multi-Scriptural Asia." In *Christian Theology in Asia*, edited by Sebastian C. H. Kim, 179–204. Cambridge: Cambridge University Press, 2008.
     - **Paywalled.** Cambridge University Press; chapter on Cambridge Core (https://www.cambridge.org/core) via Vanderbilt's CUP subscription.
     - *Cited (fn 1):* pp. 179–204 (chap. 9) — juxtaposition, not synthesis, as the engine of cross-textual reading.
     - Scholar: https://scholar.google.com/scholar?q=%22Cross-Textual+Hermeneutics+and+Identity+in+Multi-Scriptural+Asia%22
     - Books: https://www.google.com/search?tbm=bks&q=%22Christian+Theology+in+Asia%22+Kim+cross-textual
 
-11. **Newsom, Carol A.** *The Book of Job: A Contest of Moral Imaginations.* New York: Oxford University Press, 2003.
+12. **Newsom, Carol A.** *The Book of Job: A Contest of Moral Imaginations.* New York: Oxford University Press, 2003.
     - **Paywalled.** Oxford University Press; Oxford Academic via Vanderbilt.
     - *Cited (fn 6, fn 8):* pp. 236–37 and pp. 151–52.
     - Scholar: https://scholar.google.com/scholar?q=Newsom+%22Contest+of+Moral+Imaginations%22
     - Books: https://www.google.com/search?tbm=bks&q=Newsom+%22Contest+of+Moral+Imaginations%22+Job
 
-12. **Perkins, Franklin.** *Heaven and Earth Are Not Humane: The Problem of Evil in Classical Chinese Philosophy.* Bloomington: Indiana University Press, 2014.
+13. **Perkins, Franklin.** *Heaven and Earth Are Not Humane: The Problem of Evil in Classical Chinese Philosophy.* Bloomington: Indiana University Press, 2014.
     - **Paywalled.** Indiana University Press: https://iupress.org/9780253011725/heaven-and-earth-are-not-humane/ — also check JSTOR Books / Project MUSE via Vanderbilt.
     - *Cited (fn 2):* the problem of evil and the moral operation of Heaven (*tian*) in classical Chinese thought.
     - Scholar: https://scholar.google.com/scholar?q=%22Heaven+and+Earth+Are+Not+Humane%22+Perkins
     - Books: https://www.google.com/search?tbm=bks&q=%22Heaven+and+Earth+Are+Not+Humane%22+Perkins+tian+evil
 
-13. **Seneca, Lucius Annaeus.** *De Providentia.* In *Moral Essays*, vol. 1, translated by John W. Basore. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1928.
+14. **Seneca, Lucius Annaeus.** *De Providentia.* In *Moral Essays*, vol. 1, translated by John W. Basore. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1928.
     - **PD.** Latin text public domain — The Latin Library (https://www.thelatinlibrary.com) and Perseus (https://www.perseus.tufts.edu). Basore's **1928** Loeb English translation entered the US public domain on 1 Jan 2024; search Internet Archive (https://archive.org) for "Seneca Moral Essays Basore 1928." (The current in-print Loeb is a separate, copyrighted edition.)
     - *Cited (fn 20):* adversity presented as the training and the proof of the good man (the hardest Stoic case).
     - Scholar: https://scholar.google.com/scholar?q=Seneca+%22De+Providentia%22+Basore+%22Moral+Essays%22
 
-14. **Seow, Choon-Leong.** *Job 1–21: Interpretation and Commentary.* Illuminations. Grand Rapids: Eerdmans, 2013.
+15. **Seow, Choon-Leong.** *Job 1–21: Interpretation and Commentary.* Illuminations. Grand Rapids: Eerdmans, 2013.
     - **Paywalled.** Eerdmans (https://www.eerdmans.com); via Vanderbilt Library / WorldCat.
     - *Cited (fn 13):* p. 97.
     - Scholar: https://scholar.google.com/scholar?q=Seow+%22Job+1-21%22+Illuminations
     - Books: https://www.google.com/search?tbm=bks&q=Seow+%22Job+1-21%22+Eerdmans+commentary
 
-15. **Shun, Kwong-loi.** *Mencius and Early Chinese Thought.* Stanford: Stanford University Press, 1997.
+16. **Shun, Kwong-loi.** *Mencius and Early Chinese Thought.* Stanford: Stanford University Press, 1997.
     - **Paywalled.** Stanford University Press (https://www.sup.org); via Vanderbilt Library / WorldCat.
     - *Cited (fn 4):* pp. 58–79 — the semantic range of *tian* and its non-anthropomorphic operation.
     - Scholar: https://scholar.google.com/scholar?q=Shun+%22Mencius+and+Early+Chinese+Thought%22
     - Books: https://www.google.com/search?tbm=bks&q=Shun+%22Mencius+and+Early+Chinese+Thought%22+tian+Heaven
 
-16. **Sugirtharajah, R. S.** *The Bible and the Third World: Precolonial, Colonial, and Postcolonial Encounters.* Cambridge: Cambridge University Press, 2001.
+17. **Sugirtharajah, R. S.** *The Bible and the Third World: Precolonial, Colonial, and Postcolonial Encounters.* Cambridge: Cambridge University Press, 2001.
     - **Paywalled.** Cambridge University Press; Cambridge Core via Vanderbilt.
     - *Cited (fn 16):* pp. 246–48.
     - Scholar: https://scholar.google.com/scholar?q=Sugirtharajah+%22Bible+and+the+Third+World%22
     - Books: https://www.google.com/search?tbm=bks&q=Sugirtharajah+%22Bible+and+the+Third+World%22+postcolonial
 
-17. **Surin, Kenneth.** *Theology and the Problem of Evil.* Oxford: Blackwell, 1986.
+18. **Surin, Kenneth.** *Theology and the Problem of Evil.* Oxford: Blackwell, 1986.
     - **Paywalled.** Blackwell (now Wiley); a Wipf & Stock reprint is also available. Via Vanderbilt Library / WorldCat.
     - *Cited (fn 3):* pp. 1–59 — the warning against "theoretical" theodicies that dissolve concrete suffering into abstraction.
     - Scholar: https://scholar.google.com/scholar?q=Surin+%22Theology+and+the+Problem+of+Evil%22
     - Books: https://www.google.com/search?tbm=bks&q=Surin+%22Theology+and+the+Problem+of+Evil%22+theoretical+theodicy
 
-18. **Van Norden, Bryan W., trans.** *Mengzi: With Selections from Traditional Commentaries.* Indianapolis: Hackett, 2008.
+19. **Van Norden, Bryan W., trans.** *Mengzi: With Selections from Traditional Commentaries.* Indianapolis: Hackett, 2008.
     - **Paywalled.** Hackett Publishing (https://www.hackettpublishing.com); via Vanderbilt Library / WorldCat.
     - *Cited (fn 10, 14, 15):* p. 162 (*Mengzi* 6B15 — the key passage), p. 2 (1A1), p. 170 (7A1).
     - Scholar: https://scholar.google.com/scholar?q=Van+Norden+%22Mengzi%22+Hackett+2008
     - Books: https://www.google.com/search?tbm=bks&q=Van+Norden+%22Mengzi%22+Hackett+Gaozi
 
-19. **Zhu Xi.** *Sishu zhangju jizhu* 四書章句集注 [Collected Commentaries on the Four Books]. Beijing: Zhonghua shuju, 1983.
+20. **Zhu Xi.** *Sishu zhangju jizhu* 四書章句集注 [Collected Commentaries on the Four Books]. Beijing: Zhonghua shuju, 1983.
     - **Paywalled (this edition) / PD (underlying text).** The cited 1983 Zhonghua shuju critical edition is in copyright as a typeset edition — via Vanderbilt Library / WorldCat. The underlying classical text (Zhu Xi, d. 1200) is public domain; the Four Books with traditional commentaries are freely readable at the Chinese Text Project: https://ctext.org
     - *Cited (fn 19):* the classical commentarial reading of *xing* (性) in the "Gaozi" debate.
     - Scholar: https://scholar.google.com/scholar?q=Zhu+Xi+%22Sishu+zhangju+jizhu%22
